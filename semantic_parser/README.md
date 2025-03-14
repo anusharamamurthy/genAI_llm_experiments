@@ -1,4 +1,4 @@
-This is an experiment to understand how LLMs can be used as semantic parsers. 
+This is an experiment to observe the performance of LLMs as semantic parsers. 
 
 1. Get the data
    
